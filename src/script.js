@@ -192,3 +192,4 @@ function endTurn() {
 }
 
 createBoard();
+//for githubpages
