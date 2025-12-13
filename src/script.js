@@ -46,7 +46,7 @@ function getPieceAt(r, c) {
 
 function showExplosion(r, c) {
     const img = document.createElement("img");
-    img.src = "./media/explosion-gif.gif";
+    img.src = "media/explosion-gif.gif";
     img.className = "explosion";
 
     const cellSize = board.clientWidth / 8;
